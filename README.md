@@ -45,5 +45,5 @@ Send a test request:
 
 ```sh
 run this on browser
-bin/test_request
+http://127.0.0.1:8000/docs#/default/analyze_sentiment_analyze_post
 ```
