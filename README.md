@@ -44,3 +44,11 @@ run this on browser
 ```sh
 http://127.0.0.1:8000/docs#/default/analyze_sentiment_analyze_post
 ```
+
+## Here is the example
+
+```sh
+Click on the "try it out"
+```
+<img src="https://raw.githubusercontent.com/curiousily/Deep-Learning-For-Hackers/master/.github/book-cover.png" width="250">
+
