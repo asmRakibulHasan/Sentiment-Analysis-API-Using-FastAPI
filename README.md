@@ -1,6 +1,6 @@
 # Sentiment-Analysis-API-Using-FastAPI
 
-Deploy a pre-trained model for Sentiment Analysis as a REST API using FastAPI
+Deploying a pre-trained model for Sentiment Analysis as a REST API using FastAPI
 
 ## Demo
 
