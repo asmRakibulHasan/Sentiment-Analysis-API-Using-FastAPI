@@ -22,7 +22,7 @@ The response you'll get looks something like this:
 Clone this repo:
 
 ```sh
-git@github.com:asmRakibulHasan/Sentiment-Analysis-API-Using-FastAPI.git
+git clone git@github.com:asmRakibulHasan/Sentiment-Analysis-API-Using-FastAPI.git
 cd Sentiment-Analysis-API-Using-FastAPI
 ```
 
