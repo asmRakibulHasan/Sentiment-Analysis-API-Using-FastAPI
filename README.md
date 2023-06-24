@@ -47,8 +47,13 @@ http://127.0.0.1:8000/docs#/default/analyze_sentiment_analyze_post
 
 ## Here is the example
 
-```sh
-Click on the "try it out"
-```
-<img src="https://drive.google.com/file/d/1YJiPqTnFDeBXbh-c4W9eAXYFGhZwYUdP/view?usp=sharing width="500">
+Click on the "try it out":
+![temp1](https://github.com/asmRakibulHasan/Sentiment-Analysis-API-Using-FastAPI/assets/74839882/11fb2f0e-f339-4241-bc80-69f23e6a8dde)
+
+
+Then input your require String for prediction and click on "Execute":
+![temp2](https://github.com/asmRakibulHasan/Sentiment-Analysis-API-Using-FastAPI/assets/74839882/acb6456c-9a93-4c5c-8ebb-cd846fbc6d29)
+
+Here is your prediction:
+![temp3](https://github.com/asmRakibulHasan/Sentiment-Analysis-API-Using-FastAPI/assets/74839882/51a3903b-d629-40f9-b5ed-fc736991550f)
 
