@@ -4,20 +4,23 @@ from transformers import pipeline
 class Model:
 
     def predict(self, text):
-        specific_model = pipeline(model="finiteautomata/bertweet-base-sentiment-analysis")
-        result = specific_model(text)
+        # specificModel is getting the requirr model using pipeline
+        specificModel = pipeline(model="finiteautomata/bertweet-base-sentiment-analysis")
+        # result variable getting the result using the model
+        result = specificModel(text)
+        # sentiment variable storing the specific label from result variable
         sentiment = result[0]['label']
+        # As per requirement sentiment storing the specific string
         if sentiment == 'POS':
             sentiment = 'positive'
         elif sentiment == 'NEG':
-            sentiment = 'negetive'
+            sentiment = 'negative'
         else:
             sentiment = 'neutral'
         return sentiment
 
 
 model = Model()
-print(model.predict("tit for tat"))
 
 
 def get_model():
