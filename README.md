@@ -6,10 +6,6 @@ Deploy a pre-trained model for Sentiment Analysis as a REST API using FastAPI
 
 The model is trained to classify sentiment (negative, neutral, and positive). Here's a sample request to the API:
 
-```bash
-http POST http://127.0.0.1:8000/predict text="Good basic lists, i would like to create more lists, but the annual fee for unlimited lists is too out there"
-```
-
 The response you'll get looks something like this:
 
 ```js
