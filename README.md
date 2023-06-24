@@ -38,11 +38,12 @@ pip3 install fastapi uvicorn torch transformers pydantic
 Start the HTTP server:
 
 ```sh
-bin/start_server
+uvicorn SentimentAnalysisApi.api:app --reload
 ```
 
 Send a test request:
 
 ```sh
+run this on browser
 bin/test_request
 ```
