@@ -14,5 +14,5 @@ async def analyze_sentiment(request: AnalyzeRequest):
         # Return the result as a JSON response
         return {"sentiment": sentiment}
     except Exception as e:
-        # Handle any errors and provide appropriate error responses
+        # Handle any errors and providing appropriate error responses
         raise HTTPException(status_code=500, detail=str(e))
