@@ -50,5 +50,5 @@ http://127.0.0.1:8000/docs#/default/analyze_sentiment_analyze_post
 ```sh
 Click on the "try it out"
 ```
-<img src="https://drive.google.com/file/d/1YJiPqTnFDeBXbh-c4W9eAXYFGhZwYUdP/view?usp=sharing)https://drive.google.com/file/d/1YJiPqTnFDeBXbh-c4W9eAXYFGhZwYUdP/view?usp=sharing" width="500">
+<img src="https://drive.google.com/file/d/1YJiPqTnFDeBXbh-c4W9eAXYFGhZwYUdP/view?usp=sharing width="500">
 
